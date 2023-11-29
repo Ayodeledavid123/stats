@@ -74,13 +74,16 @@ strong{
         flex-direction: column-reverse;
         height: 950px;
         width: 450px;
+        border-radius: 10px;
     }   
     .bg-img{
         margin-top: 0;
         margin-bottom: 0;
+        border-radius: 10px 10px 0px 0px;
     }
     .insights{
         margin-top: 0;
+        padding: 20px 40px 25px 40px;
     }
     .statistics{
         display: flex;
