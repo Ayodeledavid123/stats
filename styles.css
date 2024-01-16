@@ -73,8 +73,8 @@ strong{
     .card-container{
         display: flex;
         flex-direction: column-reverse;
-        height: 950px;
-        width: 450px;
+        min-height: 900px;
+        width: 400px;
         border-radius: 10px;
         overflow-x: auto;
         overflow-y: auto;
