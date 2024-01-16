@@ -77,6 +77,8 @@ strong{
         border-radius: 10px;
         overflow-x: auto;
         overflow-y: auto;
+        margin-left: 10px;
+        margin-right: 10px;
     }   
     .bg-img{
         margin-top: 0;
