@@ -83,10 +83,18 @@ strong{
         margin-top: 0;
         margin-bottom: 0;
         border-radius: 10px 10px 0px 0px;
+        width: 382px;
+    }
+    .overlay{
+        width: 382px;
+    }
+    .overlay-2{
+        width: 382px;
     }
     .insights{
         margin-top: 0;
-        padding: 20px 40px 25px 40px;
+        padding: 20px 6px 25px 6px;
+        width: 370px;
     }
     .statistics{
         display: flex;
